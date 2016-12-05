@@ -1,0 +1,11 @@
+C:\Users\uberk\Desktop\build\Encode\String to ACSII.exe.config
+C:\Users\uberk\Desktop\build\Encode\String to ACSII.exe
+C:\Users\uberk\Desktop\build\Encode\String to ACSII.pdb
+C:\Users\uberk\Desktop\build\Encode\String to ACSII.xml
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String To ACSII.vbprojResolveAssemblyReference.cache
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String_to_ACSII.Form1.resources
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String_to_ACSII.Resources.resources
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String To ACSII.vbproj.GenerateResource.Cache
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String to ACSII.exe
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String to ACSII.xml
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String to ASCII\Write to text\obj\Debug\String to ACSII.pdb
